@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0092a6a1-61ce-4f48-b63b-1a12acf9606b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/TokenType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/Lox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/dushminmalisha/lox/Token.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717914993301</updated>
-      <workItem from="1717914994426" duration="2334000" />
+      <workItem from="1717914994426" duration="4376000" />
     </task>
     <servers />
   </component>
